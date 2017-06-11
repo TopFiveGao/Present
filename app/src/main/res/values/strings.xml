@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GiveGiftModel</string>
+    <string name="show_give">送给:</string>
+    <string name="give">赠送</string>
+    <string name="number_gift">个</string>
+</resources>

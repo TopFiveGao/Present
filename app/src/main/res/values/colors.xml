@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_white">#eef1ef</color>
+    <color name="gray_line_border">#4b4d4c</color>
+    <color name="gray_item_border">#9c9a9a</color>
+    <color name="blue">#2076cc</color>
+    <color name="shade_press">#dfbfbf</color>
+    <color name="bluePress">#154c83</color>
+    <color name="color_gift_item">#1bd7ec</color>
+    <color name="user_chosen">#05e1f5</color>
+    <color name="number_gift">#d29e02</color>
+</resources>
